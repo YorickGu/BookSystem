@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ajax:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ceef4906-fca9-4521-87df-139456650a71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ajax_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ajax_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ajax.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/c3p0-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit/UserDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/junit/UserDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/dao/impl/BookDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/utils/ServiceDaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/utils/ServiceDaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/web/client/BuyServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/web/client/BuyServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/web/client/CreateOrderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/web/client/CreateOrderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/web/client/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/web/client/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zhongfucheng/web/filter/CharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhongfucheng/web/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/c3p0-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/c3p0-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/BookDaoImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/BookDaoImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/BookDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/BookDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/CategoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/CategoryDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/InjectPerson.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/InjectPerson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/MyAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/MyAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/PersonDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/PersonDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/UserDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/UserDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/junit/function.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/junit/function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/BookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/CategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/OrderDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/OrderDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/BookDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/BookDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/CategoryDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/CategoryDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/OrderDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/OrderDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/dao/impl/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/CartItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/CartItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Privilege.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/Privilege.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/service/BussinessServiceDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/service/BussinessServiceDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/service/impl/BussinessServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/service/impl/BussinessServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/DaoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/DaoFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/PrivilegeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/PrivilegeException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/ServiceDaoFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/ServiceDaoFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/ServiceDaoFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/ServiceDaoFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/Utils2DB.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/Utils2DB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/WebUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/WebUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/permission.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/utils/permission.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/BuyServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/BuyServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/CreateOrderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/CreateOrderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/IndexServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/IndexServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/ListBookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/ListBookServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/LookOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/LookOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/listCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/client/listCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/CharacterEncodingFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/CharacterEncodingFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/HtmlFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/HtmlFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/MyRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/MyRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/MyRequest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/filter/MyRequest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/BookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/BookServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/CategoryServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/CategoryServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/OrderServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/OrderServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/SendOutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/SendOutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/orderItemServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/zhongfucheng/web/manager/orderItemServlet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1b0oupwG8zC7RoAu6QOANGyy9By" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.14">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.Animal" />
+      <module name="ajax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="junit.Test2" />
+      <module name="ajax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ajax" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junit" />
+      <option name="MAIN_CLASS_NAME" value="junit.UserDemo" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.14" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.14" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ajax:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/booksystem" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BookSystem" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2918" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="2920" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ajax:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test2" />
+      <item itemvalue="JUnit.UserDemo" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.14" />
+      <item itemvalue="Application.Animal" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Animal" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="JUnit.UserDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceef4906-fca9-4521-87df-139456650a71" name="Default Changelist" comment="" />
+      <created>1587778597290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587778597290</updated>
+      <workItem from="1587778601567" duration="4109000" />
+      <workItem from="1587782959766" duration="5828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="203" key="#Inspections" timestamp="1587782453136">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1587782453136" />
+    <state x="279" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587780597849">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="279" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1587780597849" />
+    <state width="1508" height="278" key="GridCell.Tab.0.bottom" timestamp="1587789278168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278168" />
+    <state width="1508" height="278" key="GridCell.Tab.0.center" timestamp="1587789278168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278168" />
+    <state width="1508" height="278" key="GridCell.Tab.0.left" timestamp="1587789278168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278168" />
+    <state width="1508" height="278" key="GridCell.Tab.0.right" timestamp="1587789278168">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278168" />
+    <state width="1508" height="278" key="GridCell.Tab.1.bottom" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state width="1508" height="278" key="GridCell.Tab.1.center" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state width="1508" height="278" key="GridCell.Tab.1.left" timestamp="1587789278169">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278169" />
+    <state width="1508" height="278" key="GridCell.Tab.1.right" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state width="1508" height="278" key="GridCell.Tab.2.bottom" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state width="1508" height="278" key="GridCell.Tab.2.center" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state width="1508" height="278" key="GridCell.Tab.2.left" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state width="1508" height="278" key="GridCell.Tab.2.right" timestamp="1587789278170">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1508" height="278" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1587789278170" />
+    <state x="389" y="98" key="SettingsEditor" timestamp="1587782426897">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="389" y="98" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1587782426897" />
+    <state x="1044" y="254" width="594" height="564" key="find.popup" timestamp="1587788535471">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1044" y="254" width="594" height="564" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1587788535471" />
+  </component>
+</project>
